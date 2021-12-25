@@ -1,0 +1,2 @@
+# CQRS
+- Padrão de arquitetura
